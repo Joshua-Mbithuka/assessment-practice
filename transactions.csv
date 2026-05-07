@@ -1,0 +1,11 @@
+transaction_id,customer_id,customer_name,account_type,transaction_type,amount,transaction_date,branch
+T001,C01,Alice,Savings,Deposit,5000,2024-01-05,Nairobi
+T002,C02,Bob,Current,Withdrawal,1200,2024-01-10,Mombasa
+T003,C03,Carol,Savings,Deposit,3000,2024-01-15,Nairobi
+T004,C01,Alice,Savings,Withdrawal,800,2024-02-02,Nairobi
+T005,C02,Bob,Current,Deposit,2000,2024-02-14,Mombasa
+T006,C04,David,Savings,Deposit,7000,2024-02-20,Kisumu
+T007,C03,Carol,Savings,Withdrawal,500,2024-03-01,Nairobi
+T008,C04,David,Savings,Deposit,3000,2024-03-10,Kisumu
+T009,C05,Eve,Current,Deposit,4500,2024-03-18,Mombasa
+T010,C05,Eve,Current,Withdrawal,1000,2024-03-25,Mombasa
